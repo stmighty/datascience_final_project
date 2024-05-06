@@ -1,0 +1,26 @@
+## User settings
+xcuserdata/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+
+
+# ignore data directory 
+data/
+
+
+# ignore config file
+
+
