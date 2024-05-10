@@ -19,6 +19,7 @@ xcuserdata/
 
 # ignore data directory 
 data/
+code/config/.env
 
 
 # ignore config file
